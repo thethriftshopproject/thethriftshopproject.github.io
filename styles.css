@@ -10,10 +10,6 @@ div.grid-item {
     height:150px;
     position:relative;
 }
-h1.Title {
-    text-align: center;   
-}
-
 a.grid-thumb {
     width:130px;
     margin:0 auto;
