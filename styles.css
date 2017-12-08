@@ -6,8 +6,8 @@ div.grid-item {
     float:left;
     margin: 5px 4px 5px 5px;
     display:block;
-    width:300px;
-    height:300px;
+    width:150px;
+    height:150px;
     position:relative;
 }
 
