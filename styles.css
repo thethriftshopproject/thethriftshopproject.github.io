@@ -73,5 +73,6 @@ a:hover:not(.active) {
 background-color:#4CAF50;
 }
 
-p { padding:100px
+p { padding-right:100px
+    padding-left:100px
 }
