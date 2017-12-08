@@ -10,7 +10,9 @@ div.grid-item {
     height:150px;
     position:relative;
 }
-
+h1.title {
+    text-align: center;   
+}
 
 a.grid-thumb {
     width:130px;
